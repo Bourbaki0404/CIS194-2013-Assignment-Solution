@@ -1,0 +1,1 @@
+data Funny f a = Funny a (f a)
